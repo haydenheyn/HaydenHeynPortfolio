@@ -12,7 +12,7 @@ export const Home = () => {
                 </h1>
                 
                 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                    And I have a passion coding
+                    
                 </p>
                 <div className="flex justify-center space-x-4">
                 <a href="#projects" 
