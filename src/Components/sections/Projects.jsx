@@ -28,7 +28,7 @@ export const Projects = () => {
                     <h3 className="text-xl font-bold mb-2">Mini Dyno</h3>
                     <p className="text-green-500/70 mb-4">Powerpacks, which consist of a motor and circuit card assembly, undergo several tests to verify functionality. These tests require spinning the powerpacks while measuring key parameters. The mini dyno provides a user-friendly dynamometer testing solution to facilitate this process.</p>
                     <div className="flex flex-wrap gap-2 mb-4">
-                        {["Rapsberry PI", "ThingSpeak", "Arduino"].map((skill) => (
+                        {["Labview", "PID", "Control Systems"].map((skill) => (
 
                             <span className="bg-green-500/20 text-white py-1 px-2 rounded-full text-sm transition-all hover:bg-[rgba(2,94,14,0.9)] hover:shadow-[0_0_15px_rgba(2,94,14,0.8)] gap-2">
                                 {skill}
