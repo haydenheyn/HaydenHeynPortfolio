@@ -20,7 +20,7 @@ export const About = () => {
                 </h2>
                 <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                     <p className="text-gray-300 mb-6">
-                        "I am passionate about building software applications that tackle real-world challenges. I thrive on innovation and enjoy continually learning to sharpen my skills and stay ahead in the ever-evolving tech landscape."
+                        I am passionate about building software applications that tackle real-world challenges. I thrive on innovation and enjoy continually learning to sharpen my skills and stay ahead in the ever-evolving tech landscape.
                     </p>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="rounded-xl p-6 hover:-translate-y-0.5 transition-all">
